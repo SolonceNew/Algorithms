@@ -1,0 +1,7 @@
+* [Бинарный поиск](https://github.com/SolonceNew/BinaryAlg)
+* [Сортировки](https://github.com/SolonceNew/MergeSortAlg)
+* [Стэк](https://github.com/SolonceNew/Stack)
+* [Бинарные деревья и пирамиды](https://github.com/SolonceNew/BTreeAlg)
+* [Рабин-Карп с шаблонами](https://github.com/SolonceNew/HashAlg)
+* [Графы](https://github.com/SolonceNew/GraphAlg)
+* [Орфографы](https://github.com/SolonceNew/Orphograph)
